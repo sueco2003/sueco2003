@@ -3,7 +3,7 @@
 I'm a student of **Electrical and Computer Engineering** at [IST - ULisboa](https://tecnico.ulisboa.pt), passionate about building efficient, scalable, and elegant solutions in both hardware and software.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Instituto_Superior_T%C3%A9cnico_-_Logo.svg/512px-Instituto_Superior_T%C3%A9cnico_-_Logo.svg.png" alt="IST Logo" height="100"/>
+  <img src="https://www.ulisboa.pt/sites/default/files/styles/large/public/images/base_image/2024-02/609-44bdcda99aa7720b912d1e262fa8c640.jpg?itok=3Se_A6gy" alt="IST Logo" height="100"/>
 </p>
 
 ## 🛠️ Languages & Tools
