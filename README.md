@@ -2,6 +2,10 @@
 
 I'm a student of **Electrical and Computer Engineering** at [IST - ULisboa](https://tecnico.ulisboa.pt), passionate about building efficient, scalable, and elegant solutions in both hardware and software.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Instituto_Superior_T%C3%A9cnico_-_Logo.svg/512px-Instituto_Superior_T%C3%A9cnico_-_Logo.svg.png" alt="IST Logo" height="100"/>
+</p>
+
 ## 🛠️ Languages & Tools
 
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -9,7 +13,7 @@ I'm a student of **Electrical and Computer Engineering** at [IST - ULisboa](http
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img align="left" alt="Rust" width="30px" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" />
 <img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <br/><br/>
@@ -23,9 +27,9 @@ I'm a student of **Electrical and Computer Engineering** at [IST - ULisboa](http
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesantos2003/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sueco2003)
 
 ---
 
-🧠 _"Code is like humor. When you have to explain it, it’s bad."_  
+🧠 _"Code is like humor. When you have to explain it, it’s bad."_
