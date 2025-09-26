@@ -1,7 +1,8 @@
 # 👋 Hey there!
 
 I'm a student of **Electrical and Computer Engineering** at [IST - ULisboa](https://tecnico.ulisboa.pt), passionate about building efficient, scalable, and elegant solutions in both hardware and software.
-Website: <href="https://web.tecnico.ulisboa.pt/guilherme.c.santos/">
+
+<a href="https://web.tecnico.ulisboa.pt/guilherme.c.santos/">Access my website!</a>
 
 <p align="center">
   <img src="https://www.ulisboa.pt/sites/default/files/styles/large/public/images/base_image/2024-02/609-44bdcda99aa7720b912d1e262fa8c640.jpg?itok=3Se_A6gy" alt="IST Logo" height="100"/>
